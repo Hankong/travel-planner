@@ -1,0 +1,7 @@
+[project]
+name = "travel-planner"
+version = "0.1.0"
+description = "AI 旅行规划 Agent：需求结构化 → 数据查询 → 行程编排 → 校验"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
