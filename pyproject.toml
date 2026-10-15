@@ -4,4 +4,10 @@ version = "0.1.0"
 description = "AI 旅行规划 Agent：需求结构化 → 数据查询 → 行程编排 → 校验"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "anthropic>=1.13.0",
+    "httpx>=0.28.1",
+    "openai>=3.30.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+]
